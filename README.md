@@ -1,2 +1,2 @@
 # Mining-Quality-Prediction
-Decision Trees, Random Forest Regressor Models
+This project predicts the percentage of Silica Concentrate in Iron Ore concentrate per minute (in the Mining Industry) using Decision Trees, Random Forest Regressor Models.
